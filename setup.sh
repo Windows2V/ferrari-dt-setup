@@ -26,7 +26,7 @@ git clone https://gitlab.com/Machad3x/proprietary_vendor_oneplus_wly.git -b line
 git clone https://gitlab.com/Machad3x/proprietary_vendor_oneplus_sm8450-common.git -b lineage-23.0 vendor/oneplus/sm8450-common
 
 #kernel
-git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450.git -b lineage-23.1 kernel/oneplus/sm8450
+git clone https://github.com/asmodeus-oos/android_kernel_oneplus_sm8450.git -b lineage-23.1 kernel/oneplus/sm8450
 git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-modules.git -b lineage-23.1 kernel/oneplus/sm8450-modules
 git clone https://github.com/pjgowtham/android_kernel_oneplus_sm8450-devicetrees.git -b lineage-23.0 kernel/oneplus/sm8450-devicetrees
 
